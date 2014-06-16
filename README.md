@@ -1,5 +1,7 @@
 # KickstarterCurl
 
+[![Gem Version](https://badge.fury.io/rb/kickstarter_curl.svg)](http://badge.fury.io/rb/kickstarter_curl) [![Dependency Status](https://gemnasium.com/webmonarch/kickstarter_curl.svg)](https://gemnasium.com/webmonarch/kickstarter_curl)
+
 A simple command line tool that collects metadata (ie: number of backers, amount pledged) from a Kickstarter project page.
 
 ``` bash
