@@ -3,14 +3,14 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="rbenv: 2.0.0-p353" jdkType="RUBY_SDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.5.3, rbenv: 2.0.0-p353) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="hashie (v3.0.0, rbenv: 2.0.0-p353) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="mini_portile (v0.6.0, rbenv: 2.0.0-p353) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.6.2.1, rbenv: 2.0.0-p353) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rake (v10.3.1, rbenv: 2.0.0-p353) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="thor (v0.19.1, rbenv: 2.0.0-p353) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.5.3, ruby: kickstarter_curl) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="hashie (v3.0.0, ruby: kickstarter_curl) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mini_portile (v0.6.0, ruby: kickstarter_curl) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.6.2.1, ruby: kickstarter_curl) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v10.3.1, ruby: kickstarter_curl) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thor (v0.19.1, ruby: kickstarter_curl) [gem]" level="application" />
   </component>
 </module>
 
