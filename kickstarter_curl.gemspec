@@ -22,6 +22,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake"
 
   spec.add_runtime_dependency "nokogiri",   "~> 1.6"
-  spec.add_runtime_dependency "thor",       "0.18.1"
+  spec.add_runtime_dependency "thor",       "~> 0.19.0"
   spec.add_runtime_dependency "hashie",     "~> 2.0"
 end
